@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/rigoberto-miranda-4080ba237/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="10" width="20" /></a>
+      alt="adam pithewan" height="10" width="20" margin-top="10" /></a>
 
 </p>
 
