@@ -13,7 +13,7 @@
 
 - 📫 Puedes contactarme en **rigoberto.miranda1503@gmail.com**
 
-- ⚡ Curiosidad :- La comida y la música🎵 son las razones para vivir.
+- ⚡ La comida y la música🎵 son las razones para vivir.
 
 <br>
 
