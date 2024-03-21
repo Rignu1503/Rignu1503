@@ -30,7 +30,8 @@
 <h3 align="left">Lenguajes y herramientas:</h3>
 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,java,py,spring,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,java" />
+      <img src="https://skillicons.dev/icons?i=py,spring,mysql,git,github" />
   </a>
 
 <br>
