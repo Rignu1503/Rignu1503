@@ -6,7 +6,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
 
 - 🌱 En constante aprendizaje enfocado en desarrollo web, explorando tanto el front-end como el back-end, además de otros lenguajes de programación.
