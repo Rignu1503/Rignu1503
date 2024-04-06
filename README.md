@@ -1,15 +1,14 @@
+<div align="center">
+<h3>Mis vistas</h3>
+ <img src="https://profile-counter.glitch.me/Rignu1503/count.svg?"  />
+</div>
+<br>
+
 <h1 align="center">Hola!,👋 <br> Soy Rigoberto Miranda.</h1>
 <h3 align="center">Desarrollador de software junior🌟</h3>
 
 <br>
 
-<div align="center">
-<h3>Mis vistas</h3>
- <img src="https://profile-counter.glitch.me/Rignu1503/count.svg?"  />
-</div>
-
-
-<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
