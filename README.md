@@ -38,7 +38,7 @@
      <br>
       <img src="https://skillicons.dev/icons?i=py,spring,mysql,java,github" />
           <br>
-      <img src="https://skillicons.dev/icons?i=git,postman" />
+      <img src="https://skillicons.dev/icons?i=git,postman,docker" />
   </a>
 
 
