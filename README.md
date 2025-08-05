@@ -39,7 +39,7 @@
 
 <br>
 
-<h3>Mis estadisticas</h3>
+<h3>Mis estadisticas </h3>
 <div align="center">
 
  <div>
