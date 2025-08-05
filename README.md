@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola!,👋 <br> Soy Rigoberto Miranda.</h1>
-<h3 align="center">Desarrollador de software junior🌟</h3>
+<h3 align="center">Desarrollador de software back-end junior🌟</h3>
 
 <br>
 
